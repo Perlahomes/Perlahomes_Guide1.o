@@ -312,6 +312,38 @@
                 "en": "In the event of a power cut, the system powers the house automatically, with autonomy of about two hours.",
                 "el": "Σε περίπτωση διακοπής ρεύματος, το σύστημα τροφοδοτεί το σπίτι αυτόματα, με αυτονομία περίπου δύο ωρών."
               }
+            },
+            {
+              "title": {
+                "en": "Check-out",
+                "el": "Αναχώρηση"
+              },
+              "body": {
+                "en": "Check-out is by 11:00. A quick checklist before you go:",
+                "el": "Η αναχώρηση είναι έως τις 11:00. Μια γρήγορη λίστα πριν φύγετε:"
+              },
+              "checklist": [
+                {
+                  "en": "Close all windows",
+                  "el": "Κλείστε όλα τα παράθυρα"
+                },
+                {
+                  "en": "Turn off the lights & A/C",
+                  "el": "Σβήστε τα φώτα & το A/C"
+                },
+                {
+                  "en": "Leave the keys on the table",
+                  "el": "Αφήστε τα κλειδιά στο τραπέζι"
+                },
+                {
+                  "en": "Lock the door",
+                  "el": "Κλειδώστε την πόρτα"
+                },
+                {
+                  "en": "Have a safe trip!",
+                  "el": "Καλή επιστροφή!"
+                }
+              ]
             }
           ]
         },

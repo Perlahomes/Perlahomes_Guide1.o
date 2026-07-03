@@ -237,26 +237,22 @@
                 "en": "Check-out",
                 "el": "Check-out"
               },
+              "body": {
+                "en": "You'll be checking out without us present, so please make sure of the following before you leave. It really helps keep the villa safe — thank you!",
+                "el": "Η αναχώρησή σας γίνεται χωρίς την παρουσία μας, γι' αυτό παρακαλούμε βεβαιωθείτε για τα παρακάτω πριν φύγετε. Μας βοηθάτε πολύ να κρατήσουμε τη βίλα ασφαλή — ευχαριστούμε!"
+              },
               "checklist": [
                 {
-                  "en": "Close all windows",
-                  "el": "Κλείστε όλα τα παράθυρα"
+                  "en": "Close and lock all doors",
+                  "el": "Κλείστε και κλειδώστε όλες τις πόρτες"
                 },
                 {
-                  "en": "Turn off the lights & A/C",
-                  "el": "Σβήστε τα φώτα & το A/C"
+                  "en": "Close and secure all windows",
+                  "el": "Κλείστε και ασφαλίστε όλα τα παράθυρα"
                 },
                 {
-                  "en": "Close the door",
-                  "el": "Κλειδώστε την πόρτα"
-                },
-                {
-                  "en": "Leave the keys in the KeyLock",
-                  "el": "Αφήστε τα κλειδιά στην κλειδοθήκη"
-                },
-                {
-                  "en": "Have a safe trip!",
-                  "el": "Καλή επιστροφή!"
+                  "en": "Turn off any unnecessary electrical appliances",
+                  "el": "Απενεργοποιήστε τυχόν περιττές ηλεκτρικές συσκευές"
                 }
               ]
             }
