@@ -1,0 +1,112 @@
+{
+  "_howto": "Copy to data/<slug>.json, fill in, share index.html?p=<slug>. Any text can be a string OR {\"en\":\"...\",\"el\":\"...\"}. Images go in data/img/ (jpg/png/svg) and are referenced by path. Delete sections/cards you don't need. Remove _ comment fields before publishing.",
+  "meta": {
+    "name": "",
+    "brandLogo": "data/img/logo.svg",
+    "welcomeTitle": {
+      "en": "Welcome!",
+      "el": "Καλωσήρθατε!"
+    },
+    "welcomeMessage": {
+      "en": "",
+      "el": ""
+    },
+    "languages": [
+      "en",
+      "el"
+    ]
+  },
+  "_languages": "supported flags: en, el, fr, de, it",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "actions": [
+    {
+      "icon": "checkin",
+      "label": {
+        "en": "Check-in form",
+        "el": "Φόρμα Check-in"
+      },
+      "url": ""
+    },
+    {
+      "icon": "massage",
+      "label": {
+        "en": "Request a massage",
+        "el": "Αίτημα μασάζ"
+      },
+      "url": ""
+    }
+  ],
+  "_section_icons": "arrival, property, neighborhood, beaches, sights, restaurants, activities, transfers, spa, shopping, info",
+  "_card_fields": "image, title, body, mapUrl+mapLabel (button), code+codeLabel (tap-to-copy chip), wifi:{network,password}",
+  "sections": [
+    {
+      "id": "arrival",
+      "icon": "arrival",
+      "title": {
+        "en": "On your arrival",
+        "el": "Κατά την άφιξή σας"
+      },
+      "cards": [
+        {
+          "image": "",
+          "title": {
+            "en": "",
+            "el": ""
+          },
+          "body": {
+            "en": "",
+            "el": ""
+          },
+          "mapUrl": "",
+          "mapLabel": {
+            "en": "Open in Maps",
+            "el": "Άνοιγμα στον χάρτη"
+          }
+        },
+        {
+          "image": "",
+          "title": {
+            "en": "",
+            "el": ""
+          },
+          "body": {
+            "en": "",
+            "el": ""
+          },
+          "code": "",
+          "codeLabel": {
+            "en": "Lockbox code",
+            "el": "Κωδικός κουτιού"
+          }
+        }
+      ]
+    },
+    {
+      "id": "property",
+      "icon": "property",
+      "title": {
+        "en": "Property guide",
+        "el": "Οδηγός σπιτιού"
+      },
+      "cards": [
+        {
+          "title": {
+            "en": "WiFi",
+            "el": "WiFi"
+          },
+          "body": {
+            "en": "",
+            "el": ""
+          },
+          "wifi": {
+            "network": "",
+            "password": ""
+          }
+        }
+      ]
+    }
+  ]
+}
